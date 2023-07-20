@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sanjsaloni
+- 👋 Hi, I’m sanjana saloni
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning android development.
-- 💞️ I’m looking to collaborate on flutter and native application projects
+- 🌱 I’m currently pursuing my B.Tech degree @ITER, SOAU.
+- 💞️ I’m looking to learn more about developing and technologies.
 - 📫 You can reach me through mail sanjanasaloni1712@gmail.com
 
 <!---

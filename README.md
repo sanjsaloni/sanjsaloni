@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sanjana saloni
-- 👀 I’m interested in coding.
+- 👀 I’m interested in Aritifical Intelligence.
 - 🌱 I’m currently pursuing my B.Tech degree @ITER, SOAU.
 - 💞️ I’m looking to learn more about developing and technologies.
 - 📫 You can reach me through mail sanjanasahoo1712@gmail.com
